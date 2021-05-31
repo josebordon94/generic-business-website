@@ -1,0 +1,44 @@
+{
+    "main-header": {
+        "pre-title": "Main pre-title",
+        "title": "Main title",
+        "content": "You can edit all this main page in public/admin. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan non lectus nec ornare. Aliquam sed quam ullamcorper, aliquam felis vel, porttitor sapien. Nullam tincidunt malesuada quam, non ultricies dui consequat a. Integer pharetra velit in magna rutrum rutrum. Vivamus dictum nec mi id euismod. Nullam et pharetra tortor, vel condimentum est. Integer tempor magna ac odio aliquet ornare."
+    },
+    "second-header": {
+        "pre-title": "Second pre-title",
+        "title": "Second title",
+        "content": "You can edit this text too, and all the contact information below."
+    },
+    "contacts": {
+        "whatsapp": {
+            "enabled": "true",
+            "value": "+54123412341234",
+            "icon": "fab fa-whatsapp",
+            "valued": "ig/InstagramAccount"
+        },
+        "facebook": {
+            "enabled": "true",
+            "value": "fb/GenericBusiness",
+            "icon": "fab fa-facebook",
+            "valued": "fb/facebookAccount"
+        },
+        "telephone": {
+            "enabled": "true",
+            "value": "+543782ExampleNumber",
+            "icon": "fa fa-phone-square-alt",
+            "valued": "+543782ExampleNumber"
+        },
+        "address": {
+            "enabled": "false",
+            "value": "1234 Example Direction - Town - Country",
+            "icon": "fa fa-map-marker-alt",
+            "valued": "1234 Random Avenue, City, Country"
+        },
+        "instagram": {
+            "enabled": "true",
+            "value": "ig/GenericBusiness",
+            "icon": "fab fa-instagram",
+            "valued": null
+        }
+    }
+}

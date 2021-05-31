@@ -1,0 +1,39 @@
+{
+    "main-header" : {
+        "pre-title" : "Short introduction",
+        "title" : "Lorem Ipsum",
+        "content" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem temporibus omnis quis corrupti praesentium optio nam facilis eaque id veritatis, hic commodi ducimus, error asperiores accusamus sapiente qui nobis quaerat!"
+    },
+    "second-header" : {
+        "pre-title" : "Other title",
+        "title" : "Service description",
+        "content" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure expedita porro facilis placeat eos natus, maiores, incidunt repudiandae eaque dolores, esse rerum itaque nostrum sequi ipsa dolore debitis consequatur asperiores! Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis modi voluptas quam beatae ut nisi, maiores neque consequuntur cumque sit dolorum optio nemo amet, animi voluptatibus deserunt odio quas laboriosam?."
+    },
+    "contacts" : {
+        "whatsapp" : {
+            "enabled" : false,
+            "value" : "+543782ExampleNumber",
+            "icon" : "fab fa-whatsapp"
+        },
+        "facebook" : {
+            "enabled" : true,
+            "value" : "fb/facebookAccount",
+            "icon" : "fab fa-facebook"
+        },
+        "telephone" : {
+            "enabled" : true,
+            "value" : "+543782ExampleNumber",
+            "icon" : "fa fa-phone-square-alt"
+        },
+        "address" : {
+            "enabled" : true,
+            "value" : "1234 Random Avenue, City, Country",
+            "icon" : "fa fa-map-marker-alt"
+        },
+        "instagram" : {
+            "enabled" : true,
+            "value" : "ig/InstagramAccount",
+            "icon" : "fab fa-instagram"
+        }
+    }
+}
